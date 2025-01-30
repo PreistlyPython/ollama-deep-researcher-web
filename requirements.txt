@@ -1,0 +1,6 @@
+langchain-core==0.1.11
+langchain-ollama==0.1.6
+langsmith==0.0.52
+requests>=2.31.0
+typing-extensions>=3.10.0
+dataclasses>=0.8.0
